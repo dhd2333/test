@@ -49,7 +49,13 @@
     "zhi1": [0,0],
     "hu": [-25,-40],
     "ji": [334,60],
-    "nz": [84,-5]
+    "nz": [84,-5],
+    "1": [297, 288],
+    "2": [85, 368],
+    "3": [127, 105],
+    "4": [76, 325],
+    "5": [256, 160],
+    "6": [298, 22]
   },
   "notifies": {
     "tui": "tuì～",
@@ -95,7 +101,8 @@
     "zhi": "指一下",
     "hu": "虎一下",
     "ji": "寄",
-    "nz": "就不用脑子"
+    "nz": "就不用脑子",
+    "6": "踢人"
   },
   "extensionConfig": {
     "jgg": {
@@ -229,6 +236,18 @@
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatji.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskji.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatnz.png",
-    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masknz.png"
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masknz.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat1.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask1.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat2.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask2.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat3.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask3.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat4.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask4.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat5.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask5.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/eat6.png",
+    "https://gitlab.com/Xtao-Labs/PagerMaid_Plugins/-/raw/c3ac15017f70067d464bebe46ada87a44e088811/eat/mask6.png"
   ]
 }
